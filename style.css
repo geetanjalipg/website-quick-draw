@@ -1,0 +1,21 @@
+body{
+    background-color: lightblue;
+    color:white;
+    font-family: 'Lobster', cursive; 
+    font-size:30px;
+}
+#score{
+    float: left;
+  margin-left: 100px;
+
+}
+#timer{
+    float:right;
+    margin-right: 100px;
+}
+h1{
+    font-size: 40px;
+}
+#sketch_drawn{
+    color: blue;
+}
